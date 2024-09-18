@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    font-family:Arial, Helvetica;
+}
+/*
+selector{
+    egenskap:värde;
+}
+*/
+
+h2{
+    color:rebeccapurple ;
+    font-family: arial, Helvetica;
+}
+
+
+
+ul{
+    list-style: square;
+}
